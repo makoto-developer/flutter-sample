@@ -14,7 +14,6 @@ brew install fvm
 ```shell
 # 利用可能なバージョン一覧
 fvm releases
-
 ```
 
 グローバルで設定したバージョン
@@ -23,3 +22,4 @@ fvm releases
 fvm global 3.13.7
 #-> /Users/user/fvm/default/binにインストールされる
 ```
+
