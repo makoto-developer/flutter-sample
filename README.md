@@ -36,5 +36,8 @@ vi ~/.config/fish/config.fish
 ## 以下を追記
 set -g FLUTTERPATH $HOME/fvm/default
 fish_add_path $FLUTTERPATH/bin
-
 ```
+
+## References
+
+- https://docs.flutter.dev/get-started/install/macos#get-sdk
