@@ -38,6 +38,15 @@ set -g FLUTTERPATH $HOME/fvm/default
 fish_add_path $FLUTTERPATH/bin
 ```
 
+## なぜFlutter
+
+- React Nativeより速度が早い、ビルドの問題が起きづらい。
+- ガベージコレクションが高速 -> 快適
+
+## flutter Architecture
+
+https://github.com/flutter/flutter/wiki/The-Engine-architecture
+
 ## References
 
 - https://docs.flutter.dev/get-started/install/macos#get-sdk
