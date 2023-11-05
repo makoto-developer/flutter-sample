@@ -19,7 +19,22 @@ fvm releases
 グローバルで設定したバージョン
 
 ```
-fvm global 3.13.7
+fvm global 3.13.9
 #-> /Users/user/fvm/default/binにインストールされる
 ```
 
+PATHを通す
+
+```shell
+# zsh
+vi ~/.zshrc
+## 以下を追記
+export PATH="$PATH":"$HOME/fvm/default/bin"
+
+# fish shell
+vi ~/.config/fish/config.fish
+## 以下を追記
+set -g FLUTTERPATH $HOME/fvm/default
+fish_add_path $FLUTTERPATH/bin
+
+```
