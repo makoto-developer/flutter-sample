@@ -41,3 +41,4 @@ fish_add_path $FLUTTERPATH/bin
 ## References
 
 - https://docs.flutter.dev/get-started/install/macos#get-sdk
+

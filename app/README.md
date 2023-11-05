@@ -2,13 +2,21 @@
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## Feature
 
-A few resources to get you started if this is your first Flutter project:
+なんの仮のサービスを作ろう...
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+|key|value|
+|:---:|:---|
+|_|バックエンドサーバーを用意|
+|_|データベースを用意|
+|_|GraphQLで接続|
+|_||
+|_||
+|_||
+|_||
+|_||
+|_||
+|_||
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
